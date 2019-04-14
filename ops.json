@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "f726f76f-e7c2-30d5-93e9-d4a6eb02be04",
+    "name": "llorno_llovana",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d6c84e1e-34c2-375c-b242-a3866ebe52c0",
+    "name": "Linkvenck",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e874fced-828a-3d98-8963-a1d42724273d",
+    "name": "Elizarlo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2d12e371-2ef9-30ff-8937-2f6d23ea454b",
+    "name": "llorno",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
